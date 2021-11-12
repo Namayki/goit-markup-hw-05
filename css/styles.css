@@ -563,8 +563,8 @@
         margin-left: 30px;
     }
 
-    .projects-item:hover .projects-description,
-    .projects-item:focus .projects-description {
+    .projects-link:hover .projects-description,
+    .projects-link:focus .projects-description {
         transform: translateY(100%);
     }
 
