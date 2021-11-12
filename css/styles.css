@@ -396,7 +396,7 @@
     }
 
     .team-item-title {
-        margin-bottom: 12px;
+        margin-bottom: 10px;
         font-weight: 500;
         color: var(--header-color);
     }
